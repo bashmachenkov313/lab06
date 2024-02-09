@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab06</string>
+    <string name="DELETE">DELETE\n</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="add">NEW</string>
+    <string name="Title">Title</string>
+    <string name="txt_title">txt_title</string>
+    <string name="Content">Content</string>
+    <string name="txt_content">txt_content</string>
+    <string name="SAVE">Save</string>
+    <string name="Cancel">Cancel</string>
+</resources>
